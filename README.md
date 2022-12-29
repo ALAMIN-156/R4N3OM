@@ -20,7 +20,7 @@
  
 - `pip install bs4`
  
-- `rm -rf FB-SHARE`
+- `rm -rf R4N3OM `
  
 - `git clone https://github.com/MrALAMIN156/R4N3OM.git`
  
